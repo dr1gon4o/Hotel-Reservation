@@ -108,6 +108,11 @@ button:hover {
 .buttons button {
     margin: 20px;
 }
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 52583ef9ba8f57a47ba38af5748978d6748f9661
 
 .offers {
     display: flex;
@@ -142,6 +147,7 @@ button:hover {
     margin-right: 20px;
 }
 
+<<<<<<< HEAD
 .confirm-reservation {
     height: 80%;
     display: flex;
@@ -150,3 +156,9 @@ button:hover {
     align-content: flex-end;
     justify-content: center;
 }
+=======
+.selected-room{
+    background-color: #cfcbca !important;
+}
+>>>>>>> upstream/main
+>>>>>>> 52583ef9ba8f57a47ba38af5748978d6748f9661
