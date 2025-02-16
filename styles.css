@@ -108,6 +108,8 @@ button:hover {
 .buttons button {
     margin: 20px;
 }
+<<<<<<< HEAD
+=======
 
 .offers {
     display: flex;
@@ -145,3 +147,4 @@ button:hover {
 .selected-room{
     background-color: #cfcbca !important;
 }
+>>>>>>> upstream/main
